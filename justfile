@@ -1,5 +1,5 @@
 cwd := `pwd`
-theme := "snowflakes"
+theme := "Snowflakes"
 
 init:
     #!/usr/bin/env bash
