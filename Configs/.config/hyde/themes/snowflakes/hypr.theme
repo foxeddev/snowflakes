@@ -15,15 +15,5 @@ general {
 decoration {
     rounding = 0
     shadow:enabled = false
-
-    blur {
-        enabled = yes
-        size = 4
-        passes = 2
-        new_optimizations = on
-        ignore_opacity = on
-        xray = false
-    }
+    blur:enabled = false
 }
-
-layerrule = blur,waybar
