@@ -1,6 +1,6 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
-$GTK_THEME = Orchis
+$GTK_THEME = Orchis-Purple
 $ICON_THEME = Reversal
 $COLOR_SCHEME = prefer-light
 
