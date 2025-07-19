@@ -13,10 +13,6 @@ cursor_text_color       #FFFFFF
 # URL underline color when hovering with mouse
 url_color               #A2D2FF
 
-# OS Window titlebar colors
-wayland_titlebar_color system
-macos_titlebar_color system
-
 # Tab bar colors
 active_tab_foreground   #FFFFFF
 active_tab_background   #5519F4
@@ -25,43 +21,43 @@ inactive_tab_background #FFFFFF
 tab_bar_background      #FFFFFF
 
 # Colors for marks (marked text in the terminal)
-mark1_foreground #1E1E2E
-mark1_background #87B0F9
-mark2_foreground #1E1E2E
-mark2_background #CBA6F7
-mark3_foreground #1E1E2E
-mark3_background #74C7EC
+mark1_foreground #1E1E1E
+mark1_background #5CB3FF
+mark2_foreground #1E1E1E
+mark2_background #E7D1FA
+mark3_foreground #1E1E1E
+mark3_background #F86FB2
 
 # The 16 terminal colors
 
 # black
-color0 #43465A
-color8 #43465A
+color0 #1E1E2E
+color8 #1E1E2E
 
 # red
-color1 #F38BA8
-color9 #F38BA8
+color1 #F86FB2
+color9 #F86FB2
 
-# green
-color2  #A6E3A1
-color10 #A6E3A1
+# green (No I'm not colorblind, that's intentional)
+color2  #5519F4
+color10 #5519F4
 
 # yellow
-color3  #F9E2AF
-color11 #F9E2AF
+color3  #8015C7
+color11 #8015C7
 
 # blue
-color4  #87B0F9
-color12 #87B0F9
+color4  #5CB3FF
+color12 #5CB3FF
 
 # magenta
-color5  #F5C2E7
-color13 #F5C2E7
+color5  #FF1A81
+color13 #FF1A81
 
 # cyan
-color6  #94E2D5
-color14 #94E2D5
+color6  #A2D2FF
+color14 #A2D2FF
 
 # white
-color7  #CDD6F4
-color15 #A1A8C9
+color7  #E7D1FA
+color15 #E7D1FA
