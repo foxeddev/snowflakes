@@ -1,5 +1,9 @@
 $HOME/.config/waybar/theme.css|${scrDir}/wbarconfgen.sh
 
+* {
+    font-family: "SpaceMono Nerd Font";
+}
+
 @define-color bar-bg #FFFFFF;
 
 @define-color main-bg #FFFFFF;

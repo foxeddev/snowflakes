@@ -1,8 +1,15 @@
 $HOME/.config/hypr/themes/theme.conf|> $HOME/.config/hypr/themes/colors.conf
 
-$GTK_THEME = Orchis-Purple
-$ICON_THEME = Reversal
-$COLOR_SCHEME = prefer-light
+$GTK_THEME =         Orchis-Purple
+$ICON_THEME =        Reversal
+$COLOR_SCHEME =      prefer-light
+$FONT =              Rubik
+$DOCUMENT_FONT =     Rubik
+$MONOSPACE_FONT =    SpaceMono
+$BAR_FONT =          SpaceMono
+# Set in /waybar.theme
+$MENU_FONT =         Rubik
+$NOTIFICATION_FONT = Rubik
 
 general {
     gaps_in = 3
