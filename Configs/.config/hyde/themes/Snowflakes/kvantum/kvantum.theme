@@ -75,14 +75,14 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <g id="g-slidercursor-normal" transform="translate(200)" fill="#5519f4">
     <g id="slidercursor-normal">
-      <rect x="0" y="0" width="24" height="24" opacity="0" id="rect1" />
-      <circle r="8" cx="12" cy="12" id="circle1" />
+      <rect x="0" y="0" width="24" height="24" opacity="0" />
+      <circle r="8" cx="12" cy="12" />
     </g>
   </g>
   <g id="g-slidercursor-disabled" transform="translate(250)" fill="#757575">
     <g id="slidercursor-disabled">
-      <rect x="0" y="0" width="24" height="24" opacity="0" id="rect2" />
-      <circle r="8" cx="12" cy="12" id="circle2" />
+      <rect x="0" y="0" width="24" height="24" opacity="0" />
+      <circle r="8" cx="12" cy="12" />
     </g>
   </g>
   <g id="g-toolbar-normal" transform="translate(0,100)" fill="#a2d2ff">
@@ -124,14 +124,28 @@ $HOME/.config/Kvantum/wallbash/wallbash.svg
   </g>
   <g id="g-menuitem-tearoff-normal" transform="translate(250,100)" fill="#1e1e1e">
     <g id="menuitem-tearoff-normal">
-      <rect x="0" y="0" width="9" height="7" opacity="0" id="rect3" />
-      <rect x="0" y="3" width="9" height="1" id="rect4" />
+      <rect x="0" y="0" width="9" height="7" opacity="0" />
+      <rect x="0" y="3" width="9" height="1" />
     </g>
   </g>
-  <g id="g-radio-normal" transform="translate(0,200)" fill="#a2d2ff">
+  <g id="g-radio-normal" transform="translate(0,200)">
     <g id="radio-normal">
-      <rect x="0" y="0" width="16" height="16" opacity="0" id="rect5" />
-      <circle r="8" cx="8" cy="8" id="circle5" />
+      <rect x="0" y="0" width="16" height="16" opacity="0" />
+      <circle r="8" cx="8" cy="8" fill="#a2d2ff" stroke="#ffffff" stroke-width="2" />
+    </g>
+  </g>
+  <g id="g-radio-checked-normal" transform="translate(0,250)">
+    <g id="radio-checked-normal">
+      <rect x="0" y="0" width="16" height="16" opacity="0" />
+      <circle r="8" cx="8" cy="8" fill="#a2d2ff" stroke="#ffffff" stroke-width="2" />
+      <circle r="5" cx="8" cy="8" fill="#5519f4" />
+    </g>
+  </g>
+  <g id="g-menu-radio-checked-normal" transform="translate(50,250)">
+    <g id="menu-radio-checked-normal">
+      <rect x="0" y="0" width="16" height="16" opacity="0" />
+      <circle r="8" cx="8" cy="8" fill="#a2d2ff" stroke="#ffffff" stroke-width="2" />
+      <circle r="5" cx="8" cy="8" fill="#5519f4" />
     </g>
   </g>
 </svg>
