@@ -1,0 +1,129 @@
+$HOME/.config/Kvantum/wallbash/wallbash.svg
+<svg id="kvantum" width="845" height="695" version="1" xmlns="http://www.w3.org/2000/svg">
+  <g id="g-button-normal" transform="translate(2, 2)" fill="#a2d2ff">
+    <rect id="button-normal" x="6" y="6" width="32" height="32" />
+    <rect id="button-normal-top" x="6" y="0" width="32" height="6" />
+    <rect id="button-normal-topright" x="38" y="0" width="6" height="6" />
+    <rect id="button-normal-right" x="38" y="6" width="6" height="32" />
+    <rect id="button-normal-bottomright" x="38" y="38" width="6" height="6" />
+    <rect id="button-normal-bottom" x="6" y="38" width="32" height="6" />
+    <rect id="button-normal-bottomleft" x="0" y="38" width="6" height="6" />
+    <rect id="button-normal-left" x="0" y="6" width="6" height="32" />
+    <rect id="button-normal-topleft" x="0" y="0" width="6" height="6" />
+  </g>
+  <g id="g-button-pressed" transform="translate(94, 2)" fill="#5519f4">
+    <rect id="button-pressed" x="6" y="6" width="32" height="32" />
+    <rect id="button-pressed-top" x="6" y="0" width="32" height="6" />
+    <rect id="button-pressed-topright" x="38" y="0" width="6" height="6" />
+    <rect id="button-pressed-right" x="38" y="6" width="6" height="32" />
+    <rect id="button-pressed-bottomright" x="38" y="38" width="6" height="6" />
+    <rect id="button-pressed-bottom" x="6" y="38" width="32" height="6" />
+    <rect id="button-pressed-bottomleft" x="0" y="38" width="6" height="6" />
+    <rect id="button-pressed-left" x="0" y="6" width="6" height="32" />
+    <rect id="button-pressed-topleft" x="0" y="0" width="6" height="6" />
+  </g>
+  <g id="g-button-toggled" transform="translate(140, 2)" fill="#5519f4">
+    <rect id="button-toggled" x="6" y="6" width="32" height="32" />
+    <rect id="button-toggled-top" x="6" y="0" width="32" height="6" />
+    <rect id="button-toggled-topright" x="38" y="0" width="6" height="6" />
+    <rect id="button-toggled-right" x="38" y="6" width="6" height="32" />
+    <rect id="button-toggled-bottomright" x="38" y="38" width="6" height="6" />
+    <rect id="button-toggled-bottom" x="6" y="38" width="32" height="6" />
+    <rect id="button-toggled-bottomleft" x="0" y="38" width="6" height="6" />
+    <rect id="button-toggled-left" x="0" y="6" width="6" height="32" />
+    <rect id="button-toggled-topleft" x="0" y="0" width="6" height="6" />
+  </g>
+  <g id="g-progress-normal" transform="translate(186, 2)" fill="#e7d1fa">
+    <rect id="progress-normal" x="2" y="2" width="30" height="30" />
+    <rect id="progress-normal-top" x="2" y="0" width="30" height="2" />
+    <rect id="progress-normal-topright" x="32" y="0" width="2" height="2" />
+    <rect id="progress-normal-right" x="32" y="2" width="2" height="30" />
+    <rect id="progress-normal-bottomright" x="32" y="32" width="2" height="2" />
+    <rect id="progress-normal-bottom" x="2" y="32" width="30" height="2" />
+    <rect id="progress-normal-bottomleft" x="0" y="32" width="2" height="2" />
+    <rect id="progress-normal-left" x="0" y="2" width="2" height="30" />
+    <rect id="progress-normal-topleft" x="0" y="0" width="2" height="2" />
+  </g>
+  <g id="g-progress-pattern-normal" transform="translate(222, 2)" fill="#5519f4">
+    <rect id="progress-pattern-normal" x="2" y="2" width="30" height="30" />
+    <rect id="progress-pattern-normal-top" x="2" y="0" width="30" height="2" />
+    <rect id="progress-pattern-normal-topright" x="32" y="0" width="2" height="2" />
+    <rect id="progress-pattern-normal-right" x="32" y="2" width="2" height="30" />
+    <rect id="progress-pattern-normal-bottomright" x="32" y="32" width="2" height="2" />
+    <rect id="progress-pattern-normal-bottom" x="2" y="32" width="30" height="2" />
+    <rect id="progress-pattern-normal-bottomleft" x="0" y="32" width="2" height="2" />
+    <rect id="progress-pattern-normal-left" x="0" y="2" width="2" height="30" />
+    <rect id="progress-pattern-normal-topleft" x="0" y="0" width="2" height="2" />
+  </g>
+  <g id="g-slider-normal" transform="translate(258, 2)" fill="#e7d1fa">
+    <rect id="slider-normal-topright" x="12" y="0" width="12" height="12" />
+    <rect id="slider-normal-right" x="12" y="12" width="12" height="16" />
+    <rect id="slider-normal-bottomright" x="12" y="28" width="12" height="12" />
+    <rect id="slider-normal-bottomleft" x="0" y="28" width="12" height="12" />
+    <rect id="slider-normal-left" x="0" y="12" width="12" height="16" />
+    <rect id="slider-normal-topleft" x="0" y="0" width="12" height="12" />
+  </g>
+  <g id="g-slider-toggled" transform="translate(284, 2)" fill="#5519f4">
+    <rect id="slider-toggled-topright" x="12" y="0" width="12" height="12" />
+    <rect id="slider-toggled-right" x="12" y="12" width="12" height="16" />
+    <rect id="slider-toggled-bottomright" x="12" y="28" width="12" height="12" />
+    <rect id="slider-toggled-bottomleft" x="0" y="28" width="12" height="12" />
+    <rect id="slider-toggled-left" x="0" y="12" width="12" height="16" />
+    <rect id="slider-toggled-topleft" x="0" y="0" width="12" height="12" />
+  </g>
+  <g id="g-slidercursor-normal" transform="translate(310, 2)" fill="#5519f4">
+    <g id="slidercursor-normal">
+      <rect x="0" y="0" width="24" height="24" opacity="0" />
+      <circle r="8" cx="12" cy="12" />
+    </g>
+  </g>
+  <g id="g-slidercursor-disabled" transform="translate(388, 2)" fill="#757575">
+    <g id="slidercursor-disabled">
+      <rect x="0" y="0" width="24" height="24" opacity="0" />
+      <circle r="8" cx="12" cy="12" />
+    </g>
+  </g>
+  <g id="g-toolbar-normal" transform="translate(2, 48)" fill="#a2d2ff">
+    <rect id="toolbar-normal" x="5" y="1" width="46" height="46" />
+    <rect id="toolbar-normal-top" x="5" y="0" width="46" height="1" />
+    <rect id="toolbar-normal-topright" x="51" y="0" width="5" height="1" />
+    <rect id="toolbar-normal-right" x="51" y="1" width="5" height="46" />
+    <rect id="toolbar-normal-bottomright" x="51" y="47" width="5" height="5" />
+    <rect id="toolbar-normal-bottom" x="5" y="47" width="46" height="5" />
+    <rect id="toolbar-normal-bottomleft" x="0" y="47" width="5" height="5" />
+    <rect id="toolbar-normal-left" x="0" y="1" width="5" height="46" />
+    <rect id="toolbar-normal-topleft" x="0" y="0" width="5" height="1" />
+  </g>
+  <g id="g-lineedit-normal" transform="translate(60, 48)" fill="#a2d2ff">
+    <rect id="lineedit-normal" x="6" y="6" width="32" height="32" />
+    <rect id="lineedit-normal-top" x="6" y="0" width="32" height="6" />
+    <rect id="lineedit-normal-topright" x="38" y="0" width="6" height="6" />
+    <rect id="lineedit-normal-right" x="38" y="6" width="6" height="32" />
+    <rect id="lineedit-normal-bottomright" x="38" y="38" width="6" height="6" />
+    <rect id="lineedit-normal-bottom" x="6" y="38" width="32" height="6" />
+    <rect id="lineedit-normal-bottomleft" x="0" y="38" width="6" height="6" />
+    <rect id="lineedit-normal-left" x="0" y="6" width="6" height="32" />
+    <rect id="lineedit-normal-topleft" x="0" y="0" width="6" height="6" />
+  </g>
+  <g id="g-menuitem-normal" transform="translate(152, 48)" fill="#a2d2ff">
+    <rect id="menuitem-normal" x="4" y="4" width="8" height="8" />
+    <rect id="menuitem-normal-top" x="4" y="0" width="8" height="4" />
+    <rect id="menuitem-normal-topright" x="12" y="0" width="4" height="4" />
+    <rect id="menuitem-normal-right" x="12" y="4" width="4" height="8" />
+    <rect id="menuitem-normal-bottomright" x="12" y="12" width="4" height="4" />
+    <rect id="menuitem-normal-bottom" x="4" y="12" width="8" height="4" />
+    <rect id="menuitem-normal-bottomleft" x="0" y="12" width="4" height="4" />
+    <rect id="menuitem-normal-left" x="0" y="4" width="4" height="8" />
+    <rect id="menuitem-normal-topleft" x="0" y="0" width="4" height="4" />
+  </g>
+  <g id="g-menuitem-tearoff-normal" transform="translate(170, 48)">
+    <g id="menuitem-tearoff-normal">
+      <rect x="0" y="0" width="9" height="7" opacity="0" />
+      <rect x="0" y="3" width="9" height="1" fill="#1e1e1e" />
+    </g>
+  </g>
+  <g id="focus-top"></g>
+  <g id="focus-right"></g>
+  <g id="focus-bottom"></g>
+  <g id="focus-left"></g>
+</svg>
