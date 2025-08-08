@@ -1,0 +1,100 @@
+# Local Variables
+$font = Rubik
+
+# GENERAL
+general {
+    no_fade_in = false
+    grace = 0
+    disable_loading_bar = true
+}
+
+# BACKGROUND
+background {
+    monitor =
+    path = $BACKGROUND_PATH
+    blur_passes = 0
+}
+
+# TIME
+label {
+    monitor =
+    text = $TIME
+    color = rgba(30, 30, 30, 1)
+    font_size = 72
+    font_family = $font
+    position = 0, -50
+    halign = center
+    valign = top
+}
+
+# DATE
+label {
+    monitor =
+    text = 8. 8. 2025
+    color = rgba(117, 117, 117, 1)
+    font_size = 18
+    font_family = $font
+    position = 0, -164
+    halign = center
+    valign = top
+}
+
+# USER AVATAR
+image {
+    monitor =
+    path = $MPRIS_IMAGE
+    size = 200 # lesser side if not 1:1 ratio
+    border_size = 0
+    reload_time = 0 # seconds between reloading, 0 to reload with SIGUSR2
+    reload_cmd = # command to get new path. if empty, old path will be used. don't run "follow" commands like tail -F
+    position = 0, 139
+    halign = center
+    valign = center
+}
+
+# USERNAME
+label {
+    monitor =
+    text = $USER
+    color = rgba(30, 30, 30, 1)
+    font_size = 27
+    font_family = $font
+    position = 0, -7.5
+    halign = center
+    valign = center
+}
+
+# INPUT FIELD
+input-field {
+    monitor =
+    size = 400, 50
+    outline_thickness = 0
+    dots_size = 0.2
+    dots_spacing = 0.5
+    inner_color = rgba(255, 255, 255, 0.75)
+    font_color = rgba(30, 30, 30, 1)
+    font_family = $font
+    fade_on_empty = false
+    placeholder_text = Input Password...
+    rounding = 0
+    check_color = rgba(30, 30, 30, 1)
+    fail_color = rgba(248, 111, 178, 1)
+    fail_text = $FAIL (Attempt $ATTEMPTS)
+    fail_transition = 300
+    swap_font_color = true
+    position = 0, -124
+    halign = center
+    valign = center
+}
+
+# Mpris and SPLASH
+label {
+    monitor =
+    text = cmd[update:1000] $SPLASH_CMD
+    color = rgba(117, 117, 117, 1)
+    font_family = $font
+    font_size = 18
+    position = 0, 50
+    halign = center
+    valign = bottom
+}
